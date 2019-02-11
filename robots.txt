@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thoocha.uni1995.com/sitemap.xml
